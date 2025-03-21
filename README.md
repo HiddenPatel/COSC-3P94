@@ -6,4 +6,4 @@ Jordan Bruyere Student ID : 6736417
 
 Ekram Adam Student ID : 7573231 
 
-Download the XXX Folder for the built Project 
+Download the CompletedProject Folder for the built Project 
