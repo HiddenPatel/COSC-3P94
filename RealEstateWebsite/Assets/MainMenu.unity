@@ -414,10 +414,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Description "Lorem ipsum" is a placeholder or dummy text commonly used
-    in graphic design, publishing, and web development to permit a page layout to
-    be designed independently of the copy that will populate it, or to demonstrate
-    various fonts of a typeface without meaningful text. '
+  m_Text: 'This house is a charming, modern Craftsman-style home with a welcoming
+    and elegant appearance. '
 --- !u!222 &131631728
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1222,7 +1220,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Realty Website Name
+  m_text: Realty Navigator
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1285,7 +1283,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: 2.3981934, z: 0, w: 14.38916}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -1942,10 +1940,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Description "Lorem ipsum" is a placeholder or dummy text commonly used
-    in graphic design, publishing, and web development to permit a page layout to
-    be designed independently of the copy that will populate it, or to demonstrate
-    various fonts of a typeface without meaningful text. '
+  m_Text: 'This house is a stunning modern Craftsman-style home with a bold and elegant
+    appearance. '
 --- !u!222 &852276567
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2233,10 +2229,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Description "Lorem ipsum" is a placeholder or dummy text commonly used
-    in graphic design, publishing, and web development to permit a page layout to
-    be designed independently of the copy that will populate it, or to demonstrate
-    various fonts of a typeface without meaningful text. '
+  m_Text: 'This house is a charming, classic single-story home with a cozy and inviting
+    feel. '
 --- !u!222 &897363207
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3074,8 +3068,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -380.00018}
-  m_SizeDelta: {x: 400.1, y: 293}
+  m_AnchoredPosition: {x: 0, y: -455.81427}
+  m_SizeDelta: {x: 400.1, y: 444.6282}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1336762853
 MonoBehaviour:
@@ -4196,8 +4190,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.00072861, y: -169.32}
-  m_SizeDelta: {x: 400.1, y: 714.35}
+  m_AnchoredPosition: {x: 0.00072861, y: -338.00623}
+  m_SizeDelta: {x: 400.1, y: 1051.7225}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1874128097
 MonoBehaviour:
