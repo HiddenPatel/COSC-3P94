@@ -23,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/SearchResult.unity
     guid: 9c08065ab9fa26640bf51eb6b97deedb
+  - enabled: 1
+    path: Assets/Calc.unity
+    guid: ef258ae1fb0f8f741925d4a997831afb
   m_configObjects: {}
